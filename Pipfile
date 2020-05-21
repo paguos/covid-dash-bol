@@ -11,6 +11,8 @@ pytest = "*"
 [packages]
 beautifulsoup4 = "*"
 requests = "*"
+psycopg2-binary = "*"
+loguru = "*"
 
 [requires]
 python_version = "3.8"
